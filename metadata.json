@@ -1,0 +1,6 @@
+{
+  "name": "動漫角色年齡與特徵識別系統",
+  "description": "上傳動漫角色圖片，利用 AI 精準判斷二次元角色年齡、年齡段，並分析髮色、眼神、服裝等各項角色特徵與動漫風格定位。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
